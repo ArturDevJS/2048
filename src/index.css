@@ -1,0 +1,14 @@
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: #b5d3ff;
+    border: solid 2px #a9a9a9;
+    font-size: 64px;
+}
+
+.row {
+    display: flex;
+}
